@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026\uAE40\uC8FC\uD638\\My project1111111\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50449B71-68BB-E433-BFE0-0B70672DFDA1}|Assembly-CSharp.csproj|c:\\2026\uAE40\uC8FC\uD638\\my project1111111\\assets\\titlemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449B71-68BB-E433-BFE0-0B70672DFDA1}|Assembly-CSharp.csproj|solutionrelative:assets\\titlemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TitleManger.cs",
+              "DocumentMoniker": "C:\\2026\uAE40\uC8FC\uD638\\My project1111111\\Assets\\TitleManger.cs",
+              "RelativeDocumentMoniker": "Assets\\TitleManger.cs",
+              "ToolTip": "C:\\2026\uAE40\uC8FC\uD638\\My project1111111\\Assets\\TitleManger.cs",
+              "RelativeToolTip": "Assets\\TitleManger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:05:58.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
